@@ -1,0 +1,6 @@
+//remove node modules and .env
+
+node_modules
+.env
+# Ignore all files in the node_modules directory
+# Ignore all files in the .env directory
